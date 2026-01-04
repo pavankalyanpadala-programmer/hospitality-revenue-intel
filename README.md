@@ -238,6 +238,21 @@ Negative Keywords: noisy, smell, dirty, late, rude, WiFi, parking
 Demand Forecast
 Next 30 days: Predicted daily bookings (e.g., 45-60 bookings/day) and revenue ($8K-$12K/day) with confidence intervals
 
+---
+
+## 📸 Dashboard Screenshots
+
+### KPI Dashboard
+![KPI Dashboard](images/dashboard_kpis.png)
+
+### Cancellation Risk Predictor
+![Cancellation Predictor](images/cancellation_predictor.png)
+
+### Guest Segmentation Analysis
+![Guest Segments](images/guest_segments.png)
+
+---
+
 🛠️ Tech Stack
 Languages: Python 3.11
 
@@ -248,17 +263,12 @@ Visualization: Streamlit, matplotlib, seaborn
 Tools: Jupyter, Git, joblib
 
 👤 Author
-Pavan Kalyan Padala
-📧 pavankalyanpadala349@gmail.com
-🔗 LinkedIn | GitHub
+PavanKalyan Padala
+pavankalyanpadala349@gmail.com
+
 
 Data Scientist with 3+ years of experience in ML, NLP, and production analytics systems. Passionate about turning data into business impact.
 
 📄 License
 This project is for educational and portfolio purposes.
 
-text
-
-***
-
-**This is the complete README!** Copy everything above (from `## 🏗️ System Architecture` to the end) and paste it into your Cursor file after what you already have, then save and push to GitHub.
