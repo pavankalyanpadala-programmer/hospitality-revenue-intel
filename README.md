@@ -1,6 +1,8 @@
 # 🏨 Hospitality Revenue Intelligence
 ### AI-Powered Analytics Platform for Hotel Revenue Optimization
 
+> **End-to-end ML system using Python, scikit-learn, Prophet, and NLP to predict hotel cancellations, segment guests, analyze 515K+ reviews, and forecast demand—delivering 15-20% revenue loss reduction and 25% marketing ROI improvement.**
+
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.52-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -350,7 +352,7 @@ Open your browser at **http://localhost:8501** 🎉
 
 **PavanKalyan Padala**  
 📧 [pavankalyanpadala349@gmail.com](mailto:pavankalyanpadala349@gmail.com)  
-🔗 [GitHub](https://github.com/pavankalyanpadala-programmer) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 [GitHub](https://github.com/pavankalyanpadala-programmer) | [LinkedIn](https://www.linkedin.com/in/pavankalyan-padala)
 
 Data Scientist with 3+ years of experience in ML, NLP, and production analytics systems. Passionate about turning data into business impact.
 
