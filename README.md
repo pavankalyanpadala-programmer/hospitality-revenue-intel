@@ -73,9 +73,6 @@ Each model translates directly into actionable decisions:
 
 ## 🏗️ System Architecture
 
-text
-## 🏗️ System Architecture
-
 ┌─────────────────┐
 │ Raw Data │
 │ - Bookings CSV │
