@@ -9,8 +9,6 @@
 [![Prophet](https://img.shields.io/badge/Prophet-Forecasting-3776AB)](https://facebook.github.io/prophet/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-<!-- Add your live demo link here -->
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit_Cloud-FF4B4B?style=for-the-badge)](https://hospitality-revenue-intel-c3hatpvtnegzy36odtgkcr.streamlit.app)
 
 ---
 
