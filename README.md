@@ -350,7 +350,7 @@ Open your browser at **http://localhost:8501** 🎉
 
 **PavanKalyan Padala**  
 📧 [pavankalyanpadala349@gmail.com](mailto:pavankalyanpadala349@gmail.com)  
-🔗 [GitHub](https://github.com/pavankalyanpadala-programmer) | [LinkedIn](https://www.linkedin.com/in/pavankalyan-padala)
+🔗 [GitHub](https://github.com/pavankalyanpadala-programmer) | [LinkedIn](https://www.linkedin.com/in/pavankalyan-padala) | [Portfolio](https://applywizz-pavan-kalyan.vercel.app/)
 
 Data Scientist with 3+ years of experience in ML, NLP, and production analytics systems. Passionate about turning data into business impact.
 
